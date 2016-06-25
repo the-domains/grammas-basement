@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Grammas Basement Website]]></title>
+        <description><![CDATA[Grammas Basement Website]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 25 Jun 2016 07:35:18 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Grammas Basement]]></title>
+            <description><![CDATA[<article><h1>Grammas Basement</h1><p>We believe in creating a sustainable lifestyle and keeping our life simple and fun through innovative ideas worth spreading.</p></article>]]></description>
+            <link>undefinedgrammas-basement/index.html</link>
+            <guid isPermaLink="false">75effca8-6988-4c29-ae7a-2765a1a32285</guid>
+            <pubDate>Sat, 25 Jun 2016 07:35:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
