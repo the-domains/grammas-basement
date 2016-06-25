@@ -1,0 +1,29 @@
+name: Grammas Basement
+favicon: null
+layout_spectrum: 0.7250089845620096
+typography_spectrum: 0.9336504458915442
+title: Grammas Basement Website
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7201222886797041
+  lightness: 0.8046866427175701
+  saturation: 0.43862156430259347
+  rhythmicContrast: 0.42985466634854674
+purpose: []
