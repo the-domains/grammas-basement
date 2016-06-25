@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Grammas Basement Website]]></title>
         <description><![CDATA[Grammas Basement Website]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/grammas-basement/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 25 Jun 2016 07:35:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 25 Jun 2016 07:36:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/grammas-basement/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Grammas Basement]]></title>
-            <description><![CDATA[<article><h1>Grammas Basement</h1><p>We believe in creating a sustainable lifestyle and keeping our life simple and fun through innovative ideas worth spreading.</p></article>]]></description>
-            <link>undefinedgrammas-basement/index.html</link>
+            <title><![CDATA[ ]]></title>
+            <description><![CDATA[<article><h1></h1><p>We believe in creating a sustainable lifestyle and keeping our life simple and fun through innovative ideas worth spreading.</p></article>]]></description>
+            <link>https://thegrid.ai/grammas-basement/grammas-basement/index.html</link>
             <guid isPermaLink="false">75effca8-6988-4c29-ae7a-2765a1a32285</guid>
-            <pubDate>Sat, 25 Jun 2016 07:35:16 GMT</pubDate>
+            <pubDate>Sat, 25 Jun 2016 07:36:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
